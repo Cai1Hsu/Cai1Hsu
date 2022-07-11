@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Cai1Hsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cai1hsu&count_private=true&show_icons=true&theme=dark)
 <!--
 **Cai1Hsu/Cai1Hsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
